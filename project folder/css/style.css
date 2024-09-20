@@ -1,0 +1,61 @@
+#topbar
+{
+    background-color:black;
+    height:20px;
+    width:100%;
+}
+body
+{
+background-color:rgba(116, 19, 19, 0.479);    
+}
+#container
+{    
+height:700px;
+width:70%;
+margin:0px auto;    
+}
+#header
+{
+ height:1090px;
+ background-color:rgba(116, 19, 19, 0.479);
+ width:113%;
+}
+body
+{
+background-image:url("../images/images.home.jpg")   
+}
+#header img
+{
+    height:80px;
+}
+#header ul
+{
+    float:right;
+    margin-top:25px;
+}
+#header ul li
+{
+    display:inline;
+    margin-right:25px;
+}
+#header ul li:header
+{
+    color:rgba(116, 19, 19, 0.479);
+}
+#header ul li a
+{
+    color:bisque;
+    text-decoration:none;
+    font-size:18px;
+}
+.sweet
+{
+ position:relative;
+ margin-top:-50px;
+   
+}
+
+
+
+
+
